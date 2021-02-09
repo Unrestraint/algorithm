@@ -1,0 +1,17 @@
+/bin
+/.project
+/.settings
+/.classpath
+/*/.project
+/*/.classpath
+/*/.settings
+/*/target
+/*/commons-logging.properties
+/*/*.iml
+/web/src/test
+/logs
+/.idea
+/.vscode
+/__pycache__
+/*/__pycache__
+/**/__pycache__
